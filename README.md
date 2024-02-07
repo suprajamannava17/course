@@ -1,4 +1,4 @@
-# course
+# newcourse
 
 This is the course repo for Saint Louis Univeristy Computer Science 5030, "Principles of Software Development". When working on activities for the entire class, students should submit work here. When working on team projects, each team should use the team project repo. This repo is intended to help the class work together towards our common goals. Students will primarily use this repo as a way to reflect on progress and share resources. This repo is primarily a navigational tool. Students should ask themselves regularly, "Am I on `course`?". If you are on course, you are headed in the right direction.
 
